@@ -8,6 +8,8 @@
 들어가는 번거로움을 줄이고, 책에 대한 모든 것이라는 주제로 다양한 컨텐츠를 우리 사이트에서
 다 이용할 수 있도록 기획하였습니다.
 
+![image](https://github.com/user-attachments/assets/dc347fac-74ea-44e3-a17b-fcd10481afdf)
+
 ## 서비스 아키텍처
 ![0202_Web App Reference Architecture V2](https://github.com/laluniax/booker/assets/145360585/b06e84a9-b0d4-42a0-b727-5ff509bd3774)
 
